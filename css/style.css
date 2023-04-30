@@ -1,0 +1,87 @@
+.header{
+	height: 110px;
+	background-color: #070A52;
+	color: white;
+	text-align: center;
+	padding-top: 25px;
+
+}
+
+
+body{
+	background-color: #D7C0AE;
+}
+.ccolor{
+	color: white
+	text-align: center;
+}
+
+.container{
+	overflow: hidden;
+}
+.blog{
+	height: 200px;
+	background-color: #FC4F00;
+	width: 50%;
+	float: left;
+}
+
+.contact{
+	height: 200px;
+	background-color: #B71375;
+	width: 50%;
+	float: right;
+}
+
+.hw iframe{
+	width: 600px;
+	height: 450px;
+	border: 0;
+}
+
+.hw2{
+	width:560px;
+	height:315px;
+}
+
+.map{
+	color: black;
+	text-align: center;
+}
+
+.videos{
+	color: black;
+	text-align: center;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+
+.blue{
+	height: 150px;
+	background-color: blue;
+	width: 33.33%;
+	float: left;
+}
+
+.aqua{
+	height: 150px;
+	background-color: aqua;
+	width: 33.33%;
+	float: left;
+}
+
+.pink{
+	height: 150px;
+	background-color: pink;
+	width: 33.33%;
+	float: left;
+}
+
+
+
+.footer{
+	height: 120px;
+	background-color: black;
+}
